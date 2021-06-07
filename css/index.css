@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+}
+
+.cardContainer {
+  margin: 80px auto;
+  width: min-content;
+}
+.card {
+  width: 50vw !important;
+}
+.card-header > div > img {
+  height: 70px;
+}
+.nav-tabs {
+  border: none;
+}
+.d-flex > i {
+  padding: 8px;
+}
